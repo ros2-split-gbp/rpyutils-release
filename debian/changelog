@@ -1,0 +1,46 @@
+ros-iron-rpyutils (0.3.2-3bullseye) bullseye; urgency=high
+
+  * [rolling] Update maintainers - 2022-11-07 (#10 <https://github.com/ros2/rpyutils/issues/10>)
+  * Contributors: Audrow Nash
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Sun, 12 Feb 2023 16:00:00 -0000
+
+ros-iron-rpyutils (0.3.1-3bullseye) bullseye; urgency=high
+
+  * Mirror rolling to master
+  * updating maintainer
+  * Contributors: Audrow Nash, Dharini Dutia
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Mon, 12 Sep 2022 16:00:00 -0000
+
+ros-iron-rpyutils (0.3.0-3bullseye) bullseye; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Tue, 03 May 2022 16:00:00 -0000
+
+ros-iron-rpyutils (0.2.1-3bullseye) bullseye; urgency=high
+
+  * Make sure to call abspath when adding Windows DLL directories. (#8 <https://github.com/ros2/rpyutils/issues/8>)
+  * Update troubleshooting links to docs.ros.org (#6 <https://github.com/ros2/rpyutils/issues/6>)
+  * Contributors: Chris Lalancette, Christophe Bedard
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Mon, 28 Feb 2022 16:00:00 -0000
+
+ros-iron-rpyutils (0.2.0-3bullseye) bullseye; urgency=high
+
+  * Create a shared function for importing c libraries (#4 <https://github.com/ros2/rpyutils/issues/4>)
+  * Add pytest.ini so local tests don't display warning (#3 <https://github.com/ros2/rpyutils/issues/3>)
+  * Contributors: Chris Lalancette, Emerson Knapp
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Thu, 10 Sep 2020 16:00:00 -0000
+
+ros-iron-rpyutils (0.1.0-3bullseye) bullseye; urgency=high
+
+  * Add context manager for adding DLL directories to the search path (#2 <https://github.com/ros2/rpyutils/issues/2>)
+  * Add package files and linter tests (#1 <https://github.com/ros2/rpyutils/issues/1>)
+  * Contributors: Jacob Perron
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Sun, 17 May 2020 16:00:00 -0000
+
+
